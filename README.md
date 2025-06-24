@@ -33,7 +33,7 @@ This project presents an interactive HR analytics dashboard that visualizes empl
 
 ---
 
-## 🧠 What I Learned
+## 🧠 What I Learned 
 
 - 📌 How to use **Power BI visualizations** effectively for HR analytics
 - 📌 Applying **data transformation and cleaning** techniques in Excel
