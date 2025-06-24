@@ -44,8 +44,10 @@ This project presents an interactive HR analytics dashboard that visualizes empl
 ---
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](HR Employee Distribution 1.png)
-![Dashboard Screenshot](HR Employee Distribution 2.png)
+## 📊 Dashboard Preview
+
+![Dashboard Screenshot 1](HR_Employee_Distribution_1.png)  
+![Dashboard Screenshot 2](HR_Employee_Distribution_2.png)
 
 
 
