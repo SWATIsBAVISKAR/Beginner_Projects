@@ -41,8 +41,6 @@ This project presents an interactive HR analytics dashboard that visualizes empl
 - 📌 Understanding workforce KPIs like **termination rate**, **employment trends**, and **diversity distribution**
 - 📌 Improved storytelling with visuals — from raw data to actionable HR insights
 
----
-## 🖼️ Dashboard Preview
 
 ## 📊 Dashboard Preview
 
