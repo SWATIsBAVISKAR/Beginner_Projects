@@ -1,0 +1,186 @@
+age_group,gender,department,count
+18-24,Female,Accounting,97
+18-24,Female,Auditing,3
+18-24,Female,"Business Development",57
+18-24,Female,Engineering,179
+18-24,Female,"Human Resources",50
+18-24,Female,Legal,9
+18-24,Female,Marketing,15
+18-24,Female,"Product Management",12
+18-24,Female,"Research and Development",37
+18-24,Female,Sales,52
+18-24,Female,Services,51
+18-24,Female,Support,17
+18-24,Female,Training,38
+18-24,Male,Accounting,122
+18-24,Male,Auditing,2
+18-24,Male,"Business Development",54
+18-24,Male,Engineering,207
+18-24,Male,"Human Resources",57
+18-24,Male,Legal,6
+18-24,Male,Marketing,15
+18-24,Male,"Product Management",23
+18-24,Male,"Research and Development",20
+18-24,Male,Sales,63
+18-24,Male,Services,49
+18-24,Male,Support,24
+18-24,Male,Training,54
+18-24,Non-Conforming,Accounting,6
+18-24,Non-Conforming,"Business Development",4
+18-24,Non-Conforming,Engineering,8
+18-24,Non-Conforming,Legal,1
+18-24,Non-Conforming,"Product Management",2
+18-24,Non-Conforming,"Research and Development",1
+18-24,Non-Conforming,Sales,4
+18-24,Non-Conforming,Services,2
+18-24,Non-Conforming,Support,2
+18-24,Non-Conforming,Training,1
+25-34,Female,Accounting,332
+25-34,Female,Auditing,5
+25-34,Female,"Business Development",181
+25-34,Female,Engineering,690
+25-34,Female,"Human Resources",190
+25-34,Female,Legal,35
+25-34,Female,Marketing,62
+25-34,Female,"Product Management",61
+25-34,Female,"Research and Development",107
+25-34,Female,Sales,179
+25-34,Female,Services,193
+25-34,Female,Support,96
+25-34,Female,Training,160
+25-34,Male,Accounting,351
+25-34,Male,Auditing,6
+25-34,Male,"Business Development",182
+25-34,Male,Engineering,739
+25-34,Male,"Human Resources",205
+25-34,Male,Legal,36
+25-34,Male,Marketing,58
+25-34,Male,"Product Management",79
+25-34,Male,"Research and Development",114
+25-34,Male,Sales,221
+25-34,Male,Services,190
+25-34,Male,Support,106
+25-34,Male,Training,186
+25-34,Non-Conforming,Accounting,19
+25-34,Non-Conforming,"Business Development",9
+25-34,Non-Conforming,Engineering,47
+25-34,Non-Conforming,"Human Resources",8
+25-34,Non-Conforming,Legal,3
+25-34,Non-Conforming,Marketing,1
+25-34,Non-Conforming,"Product Management",5
+25-34,Non-Conforming,"Research and Development",5
+25-34,Non-Conforming,Sales,9
+25-34,Non-Conforming,Services,8
+25-34,Non-Conforming,Support,10
+25-34,Non-Conforming,Training,11
+35-44,Female,Accounting,330
+35-44,Female,Auditing,5
+35-44,Female,"Business Development",154
+35-44,Female,Engineering,671
+35-44,Female,"Human Resources",199
+35-44,Female,Legal,31
+35-44,Female,Marketing,54
+35-44,Female,"Product Management",56
+35-44,Female,"Research and Development",126
+35-44,Female,Sales,183
+35-44,Female,Services,186
+35-44,Female,Support,101
+35-44,Female,Training,176
+35-44,Male,Accounting,407
+35-44,Male,Auditing,3
+35-44,Male,"Business Development",199
+35-44,Male,Engineering,792
+35-44,Male,"Human Resources",212
+35-44,Male,Legal,37
+35-44,Male,Marketing,58
+35-44,Male,"Product Management",82
+35-44,Male,"Research and Development",107
+35-44,Male,Sales,201
+35-44,Male,Services,185
+35-44,Male,Support,101
+35-44,Male,Training,235
+35-44,Non-Conforming,Accounting,21
+35-44,Non-Conforming,"Business Development",14
+35-44,Non-Conforming,Engineering,40
+35-44,Non-Conforming,"Human Resources",16
+35-44,Non-Conforming,Marketing,3
+35-44,Non-Conforming,"Product Management",3
+35-44,Non-Conforming,"Research and Development",8
+35-44,Non-Conforming,Sales,10
+35-44,Non-Conforming,Services,5
+35-44,Non-Conforming,Support,6
+35-44,Non-Conforming,Training,11
+45-54,Female,Accounting,323
+45-54,Female,Auditing,5
+45-54,Female,"Business Development",153
+45-54,Female,Engineering,695
+45-54,Female,"Human Resources",185
+45-54,Female,Legal,24
+45-54,Female,Marketing,58
+45-54,Female,"Product Management",74
+45-54,Female,"Research and Development",115
+45-54,Female,Sales,180
+45-54,Female,Services,176
+45-54,Female,Support,98
+45-54,Female,Training,178
+45-54,Male,Accounting,385
+45-54,Male,Auditing,6
+45-54,Male,"Business Development",176
+45-54,Male,Engineering,718
+45-54,Male,"Human Resources",197
+45-54,Male,Legal,41
+45-54,Male,Marketing,58
+45-54,Male,"Product Management",74
+45-54,Male,"Research and Development",132
+45-54,Male,Sales,195
+45-54,Male,Services,192
+45-54,Male,Support,107
+45-54,Male,Training,175
+45-54,Non-Conforming,Accounting,28
+45-54,Non-Conforming,"Business Development",15
+45-54,Non-Conforming,Engineering,43
+45-54,Non-Conforming,"Human Resources",8
+45-54,Non-Conforming,Legal,1
+45-54,Non-Conforming,Marketing,1
+45-54,Non-Conforming,"Product Management",2
+45-54,Non-Conforming,"Research and Development",8
+45-54,Non-Conforming,Sales,13
+45-54,Non-Conforming,Services,9
+45-54,Non-Conforming,Support,6
+45-54,Non-Conforming,Training,11
+55-64,Female,Accounting,152
+55-64,Female,Auditing,2
+55-64,Female,"Business Development",75
+55-64,Female,Engineering,318
+55-64,Female,"Human Resources",83
+55-64,Female,Legal,14
+55-64,Female,Marketing,19
+55-64,Female,"Product Management",30
+55-64,Female,"Research and Development",37
+55-64,Female,Sales,90
+55-64,Female,Services,63
+55-64,Female,Support,39
+55-64,Female,Training,89
+55-64,Male,Accounting,172
+55-64,Male,Auditing,3
+55-64,Male,"Business Development",94
+55-64,Male,Engineering,334
+55-64,Male,"Human Resources",82
+55-64,Male,Legal,8
+55-64,Male,Marketing,20
+55-64,Male,"Product Management",23
+55-64,Male,"Research and Development",49
+55-64,Male,Sales,93
+55-64,Male,Services,79
+55-64,Male,Support,55
+55-64,Male,Training,72
+55-64,Non-Conforming,Accounting,2
+55-64,Non-Conforming,Engineering,20
+55-64,Non-Conforming,"Human Resources",6
+55-64,Non-Conforming,Legal,2
+55-64,Non-Conforming,"Product Management",1
+55-64,Non-Conforming,"Research and Development",6
+55-64,Non-Conforming,Sales,4
+55-64,Non-Conforming,Services,5
+55-64,Non-Conforming,Support,4
+55-64,Non-Conforming,Training,4
