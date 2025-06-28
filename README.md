@@ -1,96 +1,80 @@
-# 📊 Financial Analysis Dashboard
+# 📊 Superstore Sales Analysis
 
-This Power BI dashboard provides an interactive financial performance overview, leveraging historical sales data across regions, segments, and product categories. The objective of this project is to identify trends, assess profitability, and uncover business insights that can support strategic decision-making.
+This project presents an interactive Tableau dashboard analyzing sales performance, profit margin, return rate, and customer segments across the US using the Superstore dataset.
 
 ---
 
-## 🗂️ Project Structure
+## 👩‍💻 About Me
+
+I’m Swati Baviskar, a data analyst with hands-on experience in Power BI, Tableau, SQL, and Excel.  
+This project demonstrates my ability to turn retail sales data into actionable insights using data visualization.
+
+---
+
+## 📁 Folder Contents
 
 | File | Description |
 |------|-------------|
-| `Financial_Analysis.pbix` | Power BI report file |
-| `Financial_Sample.xlsx` | Raw dataset (sales, profit, segment, country) |
-| `dashboard1.png` | Dashboard screenshot preview |
+| `Sales Data Set for Dashboard.xlsx` | Raw dataset (sales, region, product info) |
+| `Superstore Data Analytics.twbx` | Tableau dashboard file |
+| `Superstore_Dashboard.png` | Screenshot of the final dashboard |
+| `README.md` | Project documentation |
 
 ---
 
-## 📌 Objective
+## 🔍 Objective
 
-- To analyze revenue and profitability across different product categories, countries, and customer segments.
-- To track performance over time and identify underperforming areas.
-- To create an interactive tool for decision-makers to explore trends.
+To analyze sales trends and identify business insights related to:
 
----
-
-## 📊 Key Metrics & KPIs
-
-- **Total Sales**
-- **Total Profit**
-- **Profit Margin %**
-- **Sales by Country & Region**
-- **Top 5 Customers by Revenue**
-- **Profitability by Segment**
-- **Monthly Sales Trend**
+- Product category performance
+- Regional sales distribution
+- Sales by segment and sub-category
+- Profitability and return rate
+- Monthly sales trends
 
 ---
 
-## 📌 Insights Discovered
+## 📌 Key Metrics
 
-- Highest revenue was generated from the **Consumer** segment in the **United States**.
-- **Europe** shows lower profitability compared to other regions.
-- Certain countries had high sales but negative profit — indicating cost inefficiency.
-- The **Office Supplies** category showed lower margins despite high sales volume.
-
----
-
-## 📷 Dashboard Preview
-
-![Financial Dashboard](dashboard1.png)
-
----
-
-## 🛠 Tools Used
-
-- Microsoft Power BI (for data modeling and visualization)
-- Microsoft Excel (for source data)
-
----
-
-## 📚 Dataset Summary
-
-The dataset used is a publicly available **Financial Sample Excel file**. It contains information such as:
-
-- Order Date, Segment, Country, Product, Sales, Profit, Discount
-- Useful for creating region-based and category-level analysis dashboards
+- Total Sales: ₹2.30M  
+- Profit Margin: 12.47%  
+- Return Rate: 5.91%  
+- Sales by Segment: Consumer (50.56%), Corporate (30.74%), Home Office (18.70%)  
+- Top Products and Sub-categories driving revenue
 
 ---
 
 ## 📈 Visualizations Included
 
-- Bar Charts for Country-wise Sales & Profit
-- Line Charts for Monthly Trends
-- Map Visualization for Sales Distribution
-- KPI Cards for Summary Metrics
-- Slicers for Segment, Country, Category, Year
+- **Sales by Category & Sub-Category**
+- **Interactive Filters (Year, Region, Metrics)**
+- **Sales Trend with Trend Line**
+- **Sales by US States (Map View)**
+- **Top Products by Sales**
+- **Sales by Customer Segment**
+
+---
+
+## 📷 Dashboard Preview
+
+![Superstore Dashboard](Superstore_Dashboard.png)
+
+---
+
+## 🛠 Tools Used
+
+- Tableau Public
+- Microsoft Excel
 
 ---
 
 ## 🧠 Skills Demonstrated
 
-- Data Modeling and Transformation
-- DAX Calculations and Measures
-- Interactive Dashboard Design
-- Insightful Storytelling Through Visualization
+- Data Cleaning & Structuring
+- Creating Dynamic Dashboards
+- Interactive Filtering & Highlight Actions
+- Data-Driven Storytelling
 
 ---
 
-## ✅ Outcome
-
-The final dashboard allows business stakeholders to:
-- Interactively explore financial performance
-- Identify high-revenue and low-profit areas
-- Make informed decisions on where to optimize pricing or focus sales efforts
-
----
-
-> 🚀 This project is part of my **Mini Projects Portfolio** showcasing real-world data analysis using Power BI.
+> ✅ This project is part of my **Intermediate Analytics Portfolio**.
