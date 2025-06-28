@@ -57,7 +57,7 @@ To analyze sales trends and identify business insights related to:
 
 ## 📷 Dashboard Preview
 
-![Superstore_Dashboard.png](https://github.com/SWATIsBAVISKAR/Beginner_Projects/blob/main/Superstore%20Sales%20Analysis/Superstore_Dashboard.png))
+![Superstore_Dashboard.png](https://github.com/SWATIsBAVISKAR/Beginner_Projects/blob/main/Superstore%20Sales%20Analysis/Superstore_Dashboard.png)
 
 
 ## 🛠 Tools Used
