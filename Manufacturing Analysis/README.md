@@ -35,7 +35,7 @@ The goal was to build **interactive dashboards** that provide actionable insight
 ## 📊 Dashboards  
 
 ### 1️⃣ Manufacturing Analysis Dashboard  
-![Manufacturing Dashboard 1](ManufacturingAnalysis1.png)  
+![Manufacturing Dashboard 1](ManufacturinAnalysis1.png)  
 
 ### 2️⃣ Employee, Machine & Department-wise Rejection Analysis  
 ![Manufacturing Dashboard 2](ManufacturingAnalysis2.png)  
