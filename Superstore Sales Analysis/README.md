@@ -73,7 +73,3 @@ To analyze sales trends and identify business insights related to:
 - Creating Dynamic Dashboards
 - Interactive Filtering & Highlight Actions
 - Data-Driven Storytelling
-
----
-
-> ✅ This project is part of my **Intermediate Analytics Portfolio**.
